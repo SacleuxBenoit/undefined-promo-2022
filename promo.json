@@ -3,91 +3,111 @@
         {
             "firstname": "Alexandre",
             "lastname": "Bayard",
+            "sex": "M",
             "githubid": "alexbay66"
         },
         {
             "firstname": "Alexandre",
             "lastname": "Chuffart",
+            "sex": "M",
             "githubid": "alex62320"
         },
         {
             "firstname": "Amandine",
             "lastname": "Ozdemir",
+            "sex": "F",
             "githubid": "Ahamandine"
         },
         {
             "firstname": "Benoît",
             "lastname": "Sacleux",
+            "sex": "M",
             "githubid": "SacleuxBenoit"
         },
         {
             "firstname": "Donatien",
             "lastname": "Hochart",
+            "sex": "M",
             "githubid": "rekky1aws"
         },
         {
             "firstname": "Hugo",
             "lastname": "Soual",
+            "sex": "M",
             "githubid": "TheFoxy62"
         },
         {
             "firstname": "Julian",
             "lastname": "Devienne",
+            "sex": "M",
             "githubid": "jus2froit"
         },
         {
             "firstname": "Loïc",
             "lastname": "Bitoumbou",
+            "sex": "M",
             "githubid": "Loic0202"
         },
         {
             "firstname": "Maxence",
             "lastname": "Toth",
+            "sex": "M",
             "githubid": "Moseus"
         },
         {
             "firstname": "Myriam",
             "lastname": "Ibe",
+            "sex": "F",
             "githubid": "myibe"
         },
         {
             "firstname": "Nicolas",
             "lastname": "Bernon",
+            "sex": "M",
             "githubid": "shinzoku"
         },
         {
             "firstname": "Quentin",
             "lastname": "Farine",
+            "sex": "M",
             "githubid": "Kiou59"
         },
         {
             "firstname": "Quentin",
             "lastname": "Ramecourt",
+            "sex": "M",
             "githubid": "qramecourt"
         },
         {
             "firstname": "Steven",
             "lastname": "Averlant",
+            "sex": "M",
             "githubid": "imStav"
         },
         {
             "firstname": "Thomas",
             "lastname": "Czarnecki",
+            "sex": "M",
             "githubid": "CzarneckiThomas"
         },
         {
             "firstname": "Tristan",
             "lastname": "Wacielewski",
+            "sex": "M",
             "githubid": "wasielewski-tristan"
         },
         {
-            "firstname": "Vladyslav",
-            "lastname": "Dokounin",
+            "firstname": "Владислав",
+            "lastname": "Докунин",
+            "firstname-latin": "Vladyslav",
+            "lastname-latin": "Dokounin",
+            "sex": "M",
             "githubid": "Dokounin"
         },
         {
             "firstname": "Youcef",
             "lastname": "Nemmiche",
+            "sex": "M",
             "githubid": "Youcefyn8"
         }
     ],
@@ -95,11 +115,15 @@
         {
             "firstname": "Daishi",
             "lastname": "Kaszer",
-            "githubid": "jibundeyare"
+            "sex": "M",
+            "githubid": ""
         },
         {
             "firstname": "Philippe",
-            "lastname": "Pary"
+            "lastname": "Pary",
+            "sex": "M",
+            "githubid": "Youcefyn8"
         }
+
     ]
 }
