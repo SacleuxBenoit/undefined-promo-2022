@@ -3,7 +3,7 @@ const main = document.querySelector('main');
 
 async function fetchStudents ()
 {
-	const response = await fetch('http://localhost:5500/promo.json').then(response => response.json());
+	const response = await fetch('https://github.com/SacleuxBenoit/undefined-promo-2022/blob/main/promo.json').then(response => response.json());
 	const students = response.students;
 	
 	// get every student from the student file
